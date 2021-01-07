@@ -18,7 +18,7 @@ title: XHZ's Personal Website
 email:
 description: "XHZ's Personal Website"
 baseurl: " /hongzhou_xiao " # the optional subpath of your site, e.g. "/blog"
-url: " https://hongzhou_xiao.gitee.io " # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: " http://hongzhou_xiao.gitee.io " # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "xiaohongzhou"
   twitter:
